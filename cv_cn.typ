@@ -1,4 +1,5 @@
-#show heading: set text(font: "Iosevka")
+#set text(font: "FiraCode Nerd Font Mono")
+
 
 #show link: underline
 
